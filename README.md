@@ -6,5 +6,4 @@ Memory is not sufficient
 
 ToDo:
 
-1. Either update to cloud and do it there
-2. Use Dask/pySpark
+1. Implement out-of-memory computing through DASK
